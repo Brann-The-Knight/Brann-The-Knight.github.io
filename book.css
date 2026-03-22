@@ -84,7 +84,8 @@ img {
 
 .navBar {
     overflow: hidden;
-    background-color: #5E6B6A;
+    background-color: #303333;
+    min-height: 25px;
 }
 
 .dropdown {
